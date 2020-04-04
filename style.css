@@ -1,0 +1,28 @@
+body {
+    background-image: url(./images/3x3/water.gif);
+    background-size:600px 600px;
+}
+#resultat{
+    border
+    height: 600px;
+    width: 600px;
+    margin-left: 100px;
+    border:2px solid #000000;
+    
+}
+#select{
+   display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border:2px solid #000000;
+}
+canvas{
+    margin-left:50px;
+    border:2px solid #000000;
+}
+div{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgba(124, 239, 196,0.6);
+    color:azure;
+}
